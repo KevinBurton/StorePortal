@@ -1,0 +1,17 @@
+**/*.obj
+**/*.dll
+**/*.exe
+**/*.xml
+**/*.pdb
+Controllers/bin
+Controllers/obj
+DataAccess/bin
+DataAccess/obj
+Models/bin
+Models/obj
+StorePortal/bin
+StorePortal/obj
+StorePortalTests/bin
+StorePortalTests/obj
+.vs
+packages
